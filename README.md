@@ -1,4 +1,4 @@
-# fitness-tracker
+# Fitness-Tracker
 
 A fitness tracking application that allows users to document exercises performed and keep them organized all in one place. Once a workout has been added, users can gain more insights into their exercises via the workout dashboard. 
 Tools / languages used: JavaScript, Mongoose, MongoDB, HTML, CSS
