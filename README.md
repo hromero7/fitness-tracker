@@ -17,7 +17,7 @@ Screenshots of the completed application are below:
 **Main Page**
 ![](./assets/home.png)
 
-**Adding New Exercise**
+**Adding A New Exercise**
 ![](./assets/exercise.png)
 
 **Workout Dashboard**
