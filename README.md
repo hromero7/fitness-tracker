@@ -15,7 +15,7 @@ Create a fitness tracking application that allows the user to save completed exe
 Screenshots of the completed application are below:
 
 **Main Page**
-![](./assets/home.png)
+![](./assets/homepage.png)
 
 **Adding A New Exercise**
 ![](./assets/exercise.png)
