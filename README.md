@@ -21,7 +21,7 @@ Screenshots of the completed application are below:
 ![](./assets/exercise.png)
 
 **Workout Dashboard**
-![](./assets/insights.png)
+![](./assets/stats.png)
 
 ## Installation
 
